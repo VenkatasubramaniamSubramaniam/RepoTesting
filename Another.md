@@ -1,5 +1,5 @@
 # 2nd file creation 
-(Y) Happens to be MD again
+(Y) Happens to be .md again
 
 ## What I like
 * Ripe Mangoes
